@@ -3,7 +3,7 @@ import React from "react";
 const Layout = ({children}:{children: React.ReactNode}) => {
     return (
         <div>
-            <p>Global Navbar</p>
+            <p>General Navbar</p>
             {children}
         </div>
     )
